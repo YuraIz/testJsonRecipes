@@ -1,7 +1,9 @@
-{
-  "name": "Hot dog",
-  "ingredients": [
-    "Sausage",
-    "Hot dog bun"
-  ]
-}
+[
+  {
+    "name": "Hot dog",
+    "ingredients": [
+      "Sausage",
+      "Hot dog bun"
+    ]
+  }
+]
