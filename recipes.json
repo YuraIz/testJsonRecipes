@@ -1,7 +1,16 @@
-{
-  "name": "Hot dog",
-  "ingredients": [
-    "Sausage",
-    "Hot dog bun"
-  ]
-}
+[
+  {
+    "name": "Pizza",
+    "ingredients": [
+      "Pizza base",
+      "Other pizza ingredients"
+    ]
+  },
+  {
+    "name": "Hot dog",
+    "ingredients": [
+      "Sausage",
+      "Hot dog bun"
+    ]
+  }
+]
