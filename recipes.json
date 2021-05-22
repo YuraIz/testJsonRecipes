@@ -4,13 +4,15 @@
     "ingredients": [
       "Pizza base",
       "Other pizza ingredients"
-    ]
+    ],
+    "recipeText": "Just make pizza"
   },
   {
     "name": "Hot dog",
     "ingredients": [
       "Sausage",
       "Hot dog bun"
-    ]
+    ],
+    "recipeText": "Just make hot dog"
   }
 ]
